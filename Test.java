@@ -32,7 +32,7 @@ public class Test {
     public static void main(String[] args) {
         int x = 589;
         int y = 10;
-        System.out.println("Hi Jashan this is your repo");
+        System.out.println("Hi Jashan this is your repo once again push");
         add(x, y);
         sub(x, y);
         mul(x, y);
